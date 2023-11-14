@@ -526,4 +526,8 @@ h2 {
         flex-wrap: wrap;
         justify-content: center;
     }
+
+    #subscribe button {
+        margin-top: 30px;
+    }
 }
